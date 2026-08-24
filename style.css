@@ -1,0 +1,26 @@
+h1 {
+  color: palevioletred;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+  padding: 20px;
+}
+
+#text-p {
+    font-style: bold;
+    font-size: 150%;
+    justify-content: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.text-2 {
+    text-align: center;
+    justify-content: space-around;
+    font-size: large;
+    font-style: bold;
+
+}
+
